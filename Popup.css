@@ -240,6 +240,9 @@
 
 .body2-textarea {
   padding-top: 10px;
+  margin-bottom: 30px;
+  width: 210px;
+  margin-left: 40px;
 }
 
 .next Button {
